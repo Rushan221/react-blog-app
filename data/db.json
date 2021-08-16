@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My Second Blog",
+      "blog": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt sagittis aliquet. Nunc dapibus sagittis libero a fermentum. Donec in magna eu lacus malesuada efficitur. Quisque vitae augue urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vestibulum vel nibh sed suscipit.",
+      "author": "Rushan",
+      "id": 2
+    },
+    {
+      "title": "Voluptas consequuntu",
+      "body": "Quaerat labore anim ",
+      "author": "rushan",
+      "id": 3
+    },
+    {
+      "title": "Vel soluta sunt dolo",
+      "body": "Vitae quo enim est f",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
